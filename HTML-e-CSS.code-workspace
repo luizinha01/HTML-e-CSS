@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "HTML-e-CSS"
+		},
+		{
+			"path": "../3-Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3-Bootstrap"
+	}
+}
