@@ -1,4 +1,4 @@
-.hoverable{
+/* .hoverable{
   display:inline-block;
   backface-visibility: hidden;
   vertical-align: middle;
@@ -21,7 +21,7 @@
   opacity:0;
   background: -webkit-radial-gradient(center, ellipse, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0) 80%);
   background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0) 80%);
-  /* W3C */
+  
   transition-duration: 0.3s;
   transition-property: transform, opacity;
 }
@@ -32,7 +32,7 @@
 .hoverable:hover:before, .hoverable:active:before, .hoverable:focus:before{
   opacity: 1;
   transform: translateY(-5px);
-}
+} */
 
 
 
@@ -95,7 +95,7 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-nav {
+/* nav {
   background: none !important;
   text-transform:uppercase;
   li {
@@ -105,13 +105,13 @@ nav {
       transition: .5s color ease-in-out;
     }
   }
-}
+} */
 
 .page-title {
   opacity: .75 !important;
 }
 
-a {
+/* a {
   color: white;
   text-decoration: none;
   
@@ -127,7 +127,7 @@ ul {
 }
 li{
   margin: 20px;
-}
+} */
 
 footer{
   background-color: rgb(119, 119, 119);
